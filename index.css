@@ -1,28 +1,33 @@
 h1{
     color:#FF69b4;
-    font-size:80px;
+    font-size:60px;
     background-color: #e6e6fa;
     font-family:monospace;
+
 }
 h2{
     color:#ff93c9;
-    font-size:50px;
+    font-size:40px;
     font-family:monospace;
     background-color: #cce5ff;
     
 }
 
-.main-ct{
+.title-ct{
     color:#705b67;
     font-family:monospace;
-    font-size:30px;
     background-color: #ffccff;
-}
-.irt1{
-    width:500px;
-    height:600px;
+
 }
 
-li{
-    margin-bottom:40px;
+
+.main-intro{
+    background-color: #c1c1ff;
+
+}
+
+.itr{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    
 }
